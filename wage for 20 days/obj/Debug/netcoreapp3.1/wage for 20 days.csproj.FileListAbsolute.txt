@@ -1,0 +1,14 @@
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\bin\Debug\netcoreapp3.1\wage for 20 days.exe
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\bin\Debug\netcoreapp3.1\wage for 20 days.deps.json
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\bin\Debug\netcoreapp3.1\wage for 20 days.runtimeconfig.json
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\bin\Debug\netcoreapp3.1\wage for 20 days.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\bin\Debug\netcoreapp3.1\wage for 20 days.dll
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\bin\Debug\netcoreapp3.1\wage for 20 days.pdb
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\obj\Debug\netcoreapp3.1\wage for 20 days.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\obj\Debug\netcoreapp3.1\wage for 20 days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\obj\Debug\netcoreapp3.1\wage for 20 days.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\obj\Debug\netcoreapp3.1\wage for 20 days.AssemblyInfo.cs
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\obj\Debug\netcoreapp3.1\wage for 20 days.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\obj\Debug\netcoreapp3.1\wage for 20 days.dll
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\obj\Debug\netcoreapp3.1\wage for 20 days.pdb
+C:\Users\geeth\source\repos\wage for 20 days\wage for 20 days\obj\Debug\netcoreapp3.1\wage for 20 days.genruntimeconfig.cache
